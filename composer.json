@@ -1,0 +1,8 @@
+{
+    "name": "drewtoma/statamic-bookwhen",
+    "description": "This addon allows you to pull data from your Bookwhen API as antlers tags in your Statamic views.",
+    "require": {
+        "php": "^8.1",
+        "statamic/cms": "^4.0"
+    }
+}
